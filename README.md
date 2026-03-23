@@ -69,3 +69,52 @@ This repository contains implementations of various Natural Language Processing 
 - Gensim  
 
 ---
+
+
+
+---
+
+## 📊 Datasets Used
+
+- AG News Dataset  
+- UCI Wine Quality Dataset  
+- Custom datasets  
+
+---
+
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/majidtamboli45/Natural-Language-Processing-NLP-.git
+cd Natural-Language-Processing-NLP-
+pip install -r requirements.txt
+python filename.py
+
+## 🎯 Key Learnings
+
+- NLP pipeline understanding  
+- Classical & deep learning models  
+- Real-world dataset handling  
+- Model evaluation  
+
+---
+
+## 📌 Future Improvements
+
+- Add BERT / GPT models  
+- Improve accuracy  
+- Deploy using Flask/Streamlit  
+- Add dashboards
+
+
+
+
+---
+
+If you want, I can also:
+- Add **Majid  + VPKBIET,Baramati + Natural Language Processing**
+
+
+
+
