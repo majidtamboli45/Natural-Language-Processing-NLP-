@@ -16,7 +16,7 @@ This project demonstrates the practical implementation of key NLP and Machine Le
 - Tokenization  
 - Normalization (lowercasing, punctuation removal)  
 - Stopword removal  
-- Stemming and 
+- Stemming and  Lemmatization 
 
 📌 **Purpose:** Clean and prepare raw text data for further processing.
 
